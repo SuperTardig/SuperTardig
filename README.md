@@ -1,16 +1,35 @@
-### Hi there 👋
+# Welcome to the github profil of Benjamin Perron!
 
-<!--
-**SuperTardig/SuperTardig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young programmer that's interested in everything in pretty much any that encompasses programming. At the moment, I'm really interested in video games development. I'm currently a student at 42 Quebec and also doing a small course on the Unreal Engine so I can start working on my own 3D games.
 
-Here are some ideas to get you started:
+## Currently Working on:
+  - Starting work on the final project of the 42 cursus, ft_transcendence
+  - Building my own small 3D game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning:
+  - Unreal Engine
+  - Typescript
+  - React
+  - NestJs
+  - PostgreSQL
+  - Docker
+
+## Skills:
+  - C++
+  - C
+  - Git
+  - Shell
+  - Unreal Engine
+
+## Interests:
+  - Video game development
+  - Graphics programming
+  - Game mechanics
+  - VR
+  - AI
+
+## how to reach me:
+  - Email: benjaminperron150@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/benjamin-perron-b730a7263/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTardig)](https://github.com/SuperTardig/github-readme-stats)
