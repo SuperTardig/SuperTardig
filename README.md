@@ -1,6 +1,6 @@
 # Welcome to the github profil of Benjamin Perron!
 
-I'm a young programmer that's interested in everything in pretty much any that encompasses programming. At the moment, I'm really interested in video games development. I'm currently a student at 42 Quebec and also doing a small course on the Unreal Engine so I can start working on my own 3D games.
+I'm a young programmer that's interested in everything in pretty much anything that encompasses programming. At the moment, I'm really interested in video games development. I'm currently a student at 42 Quebec and also doing a small course on the Unreal Engine so I can start working on my own 3D games.
 
 ## Currently Working on:
   - Starting work on the final project of the 42 cursus, ft_transcendence
