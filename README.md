@@ -10,8 +10,7 @@ I'm a young programmer that's interested in everything in pretty much anything t
   - Unreal Engine
   - Typescript
   - React
-  - NestJs
-  - PostgreSQL
+  - Phaser
   - Docker
 
 ## Skills:
