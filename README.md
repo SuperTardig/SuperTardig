@@ -8,23 +8,20 @@ I'm a young programmer that's interested in everything in pretty much anything t
 
 ## Currently learning:
   - Unreal Engine
-  - Typescript
-  - React
-  - Phaser
-  - Docker
+  - Python
 
 ## Skills:
-  - C++
-  - C
+  - C/C++
   - Git
   - Shell
   - Unreal Engine
+  - Typescript/React
+  - Docker
 
 ## Interests:
   - Video game development
   - Graphics programming
-  - Game mechanics
-  - VR
+  - Web Dev
   - AI
 
 ## how to reach me:
