@@ -25,7 +25,7 @@ I'm a young programmer that's interested in everything in pretty much anything t
   - AI
 
 ## how to reach me:
-  - Email:benjaminperron150@gmail.com
+  - Email: benjaminperron150@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/benjamin-perron-b730a7263/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTardig)](https://github.com/SuperTardig/github-readme-stats)
